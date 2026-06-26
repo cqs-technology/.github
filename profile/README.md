@@ -49,6 +49,7 @@ We enable Australia to operate confidently in an increasingly complex and contes
 
 ## Online Library of our Selected Works with Code Implementations
 - AI Security
+  - [Camp in the odyssey: Provably robust reinforcement learning with certified radius maximization](https://github.com/cqs-technology/camp-robust-rl), USENIX 2025
   - [Multiple Hypothesis Dropout: Estimating the Parameters of Multi-Modal Output Distributions](https://github.com/cqs-technology/multiple-hypothesis-dropout), AAAI 2024
   - [DeepTheft: Stealing DNN Model Architectures through Power Side Channel](https://github.com/cqs-technology/DeepTheft), IEEE SP 2024
   - [Watch Out! Simple Horizontal Class Backdoor Can Trivially Evade Defense](https://github.com/cqs-technology/HCB), CCS 2024
@@ -91,6 +92,7 @@ We enable Australia to operate confidently in an increasingly complex and contes
   - [Quantum-safe HIBE: does it cost a Latte?](https://github.com/cqs-technology/latte), IEEE IFS 2024
   - [A New Look at Blockchain Leader Election: Simple, Efficient, Sustainable and Post-Quantum](https://github.com/cqs-technology/iVRF), AsiaCCS 2023
 - AI with Quantum
+  - [Quantum Down Sampling Filter for Variational Auto-encoder](https://github.com/cqs-technology/Quantum-Downsampling-Filter), Quantum Journal 2025
   - [Application of Quantum Pre-Processing Filter for Binary Image Classification with Small Samples](https://github.com/cqs-technology/qpf-bic), 2023
   - [Development of a Novel Quantum Pre-processing Filter to Improve Image Classification Accuracy of Neural Network Models](https://github.com/cqs-technology/qpf), 2023
 - Embedded Systems Security/IoT
@@ -99,6 +101,7 @@ We enable Australia to operate confidently in an increasingly complex and contes
   - [End-to-End Evaluation of Federated Learning and Split Learning for Internet of Things](https://github.com/cqs-technology/Federated-Learning-and-Split-Learning-with-raspberry-pi), SRDS 2020
   - [Secure and Modular IoT](https://github.com/cqs-technology/smit), 2018
 - Human-centric Security
+  - [Adaptive alert prioritisation in security operations centres via learning to defer with human feedback](https://github.com/cqs-technology/L2DHF_Final), arXiv 2025
   - [Investigating users’ understanding of privacy policies of virtual personal assistant applications](https://github.com/cqs-technology/VPAPPUsability), AsiaCCS 2023
 - Datasets
   - [SchemaDB: A Dataset for Structures in Relational Data](https://github.com/cqs-technology/SchemaDB), 2023
