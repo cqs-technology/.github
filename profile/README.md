@@ -96,6 +96,7 @@ We enable Australia to operate confidently in an increasingly complex and contes
   - [Application of Quantum Pre-Processing Filter for Binary Image Classification with Small Samples](https://github.com/cqs-technology/qpf-bic), 2023
   - [Development of a Novel Quantum Pre-processing Filter to Improve Image Classification Accuracy of Neural Network Models](https://github.com/cqs-technology/qpf), 2023
 - Embedded Systems Security/IoT
+  - [FirmReBugger: A Benchmark Framework for Monolithic Firmware Fuzzers](https://github.com/cqs-technology/FirmReBugger), USENIX 2026
   - [MultiFuzz: A Multi-stream Fuzzer For Testing Monolithic Firmware](https://github.com/cqs-technology/MultiFuzz), USENIX 2024
   - [Icicle: A Re-designed Emulator for Grey-Box Firmware Fuzzing](https://github.com/cqs-technology/icicle), ISSTA 2023
   - [End-to-End Evaluation of Federated Learning and Split Learning for Internet of Things](https://github.com/cqs-technology/Federated-Learning-and-Split-Learning-with-raspberry-pi), SRDS 2020
