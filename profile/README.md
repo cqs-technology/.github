@@ -82,6 +82,7 @@ We enable Australia to operate confidently in an increasingly complex and contes
 - AI for Cybersecurity
   - [Modelling direct messaging networks with multiple recipients for cyber deception](https://github.com/cqs-technology/emailgen), Euro S&P 2022
 - AI for Software Security
+  - [InSPECtor: Improving SLEIGH Processor Specification Veracity via Proxy](https://github.com/cqs-technology/InSPECtor), USENIX 2026
   - [EaTVul: ChatGPT-based Evasion Attack Against Software Vulnerability Detection](https://github.com/cqs-technology/EatVul-Resources), USENIX 2024
   - [An Investigation into Misuse of Java Security APIs by Large Language Models](https://github.com/cqs-technology/LLM-security-study), AsiaCCS 2024
   - [Mate! Are You Really Aware? An Explainability-Guided Testing Framework for Robustness of Malware Detectors](https://github.com/cqs-technology/AMM), ESEC/FSE 2023
